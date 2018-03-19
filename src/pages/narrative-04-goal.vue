@@ -9,8 +9,7 @@
       </p>
 
       <p>
-        What am I doing to make this happen: I have thrown
-        myself into full study mode. I have already completed
+        I am throwing myself into full study mode. I have already completed
         the first part of the Hack Reactor preparation material
         and have begun their structured study program. I will be
         studying about eight hours a day, six days a week  from
@@ -18,11 +17,23 @@
         Reactor's technical admissions interview.
       </p>
 
-
+      <!--<f7-link back>back</f7-link>-->
+    </f7-block>
+    <f7-block>
+      <banner-ad-amazon></banner-ad-amazon>
     </f7-block>
   </f7-page>
 </template>
 
 <script>
-  export default {}
+
+  import BannerAdAmazon from './BannerAdLarge.vue';
+
+  export default {
+    components: {
+      BannerAdAmazon,
+    }
+
+
+  }
 </script>

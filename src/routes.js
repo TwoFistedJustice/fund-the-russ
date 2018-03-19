@@ -1,10 +1,10 @@
 import HomePage from './pages/home.vue';
 import AboutPage from './pages/about.vue';
-// import FormPage from './pages/form.vue';
-// import DynamicRoutePage from './pages/dynamic-route.vue';
+
 import NotFoundPage from './pages/not-found.vue';
 
 import PanelLeftPage from './pages/panel-left.vue';
+
 
 
 import Narrative01Help from './pages/narrative-01-help.vue';
@@ -28,14 +28,10 @@ export default [
     component: AboutPage,
   },
 
-  {
-    path: '(.*)',
-    component: NotFoundPage,
-  },
 
-  // Narrative Pages
+
   {
-    path: '/you-can-help-me/',
+    path: '/help/',
     component: Narrative01Help,
   },
   {
@@ -59,5 +55,10 @@ export default [
     component: Narrative06Why,
   },
 
+  //This has to go at the bottom
+  {
+    path: '(.*)',
+    component: NotFoundPage,
+  },
 
 ];
