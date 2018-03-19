@@ -1,7 +1,8 @@
 <template>
   <f7-page>
     <f7-navbar title="My Goal" back-link="Back"></f7-navbar>
-    <f7-block-title>My Goal</f7-block-title>
+    <banner-ad-top></banner-ad-top>
+    <!--<f7-block-title>My Goal</f7-block-title>-->
     <f7-block strong>
       <p>
         Attend the Hack Reactor software engineering immersive bootcamp
@@ -20,18 +21,22 @@
       <!--<f7-link back>back</f7-link>-->
     </f7-block>
     <f7-block>
-      <banner-ad-amazon></banner-ad-amazon>
+      <banner-ad-bottom></banner-ad-bottom>
     </f7-block>
   </f7-page>
 </template>
 
 <script>
 
+  import BannerAdTop from './BannerAdTop.vue';
+  import BannerAdBottom from './BannerAdBottom.vue';
   import BannerAdAmazon from './BannerAdLarge.vue';
 
   export default {
     components: {
       BannerAdAmazon,
+      BannerAdBottom,
+      BannerAdTop
     }
 
 

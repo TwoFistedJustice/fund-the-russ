@@ -1,7 +1,8 @@
 <template>
   <f7-page>
     <f7-navbar title="The Backstory" back-link="Back"></f7-navbar>
-    <f7-block-title>The Backstory</f7-block-title>
+    <!--<f7-block-title>The Backstory</f7-block-title>-->
+    <banner-ad-top></banner-ad-top>
     <f7-block strong>
       <p>
         I had a decent job in accounting. My goal was to study independently
@@ -24,18 +25,22 @@
       <!--<f7-link back>back</f7-link>-->
     </f7-block>
     <f7-block>
-      <banner-ad-amazon></banner-ad-amazon>
+      <banner-ad-bottom></banner-ad-bottom>
     </f7-block>
   </f7-page>
 </template>
 
 <script>
 
+  import BannerAdTop from './BannerAdTop.vue';
+  import BannerAdBottom from './BannerAdBottom.vue';
   import BannerAdAmazon from './BannerAdLarge.vue';
 
   export default {
     components: {
       BannerAdAmazon,
+      BannerAdBottom,
+      BannerAdTop
     }
 
 
