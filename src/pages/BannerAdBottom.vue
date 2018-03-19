@@ -5,7 +5,7 @@
        class="badge-widget link external"
        style="border: none; background-image: url(&quot;https://funds.gofundme.com/css/3.0_donate/green/widget.png&quot;);"
        href="//www.gofundme.com/fundruss?utm_medium=wdgt" title="Visit this page now.">Click to Donate Now!</a>
-
+    <p>Donate to my Go Fund Me!</p>
   </div>
 
     <!--</f7-block>-->

@@ -5,7 +5,7 @@
     <!--<f7-block-title>My Goal</f7-block-title>-->
     <f7-block strong>
       <p>
-        Attend the Hack Reactor software engineering immersive bootcamp
+        My goal is to attend the Hack Reactor software engineering immersive bootcamp
         from June 11, 2018 to September 3rd, 2018.
       </p>
 
