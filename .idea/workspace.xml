@@ -3,14 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0a0f93ab-81ea-4bab-8022-7e02d090d0d1" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/about.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/narrative-01-help.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/narrative-01-help.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/narrative-02-backstory.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/narrative-02-backstory.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/narrative-03 needs.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/narrative-03 needs.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/narrative-04-goal.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/narrative-04-goal.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/narrative-05-confidence.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/narrative-05-confidence.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/narrative-06- why.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/narrative-06- why.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,7 +16,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="narrative-01-help.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pages/narrative-01-help.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,12 +62,12 @@
         <option value="$PROJECT_DIR$/src/css/app.css" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/pages/narrative-02-backstory.vue" />
-        <option value="$PROJECT_DIR$/src/pages/narrative-01-help.vue" />
         <option value="$PROJECT_DIR$/src/pages/narrative-03 needs.vue" />
         <option value="$PROJECT_DIR$/src/pages/narrative-04-goal.vue" />
         <option value="$PROJECT_DIR$/src/pages/narrative-05-confidence.vue" />
         <option value="$PROJECT_DIR$/src/pages/narrative-06- why.vue" />
         <option value="$PROJECT_DIR$/src/pages/about.vue" />
+        <option value="$PROJECT_DIR$/src/pages/narrative-01-help.vue" />
       </list>
     </option>
   </component>
@@ -169,23 +172,26 @@
       <workItem from="1521601098939" duration="111000" />
       <workItem from="1522601730154" duration="44000" />
       <workItem from="1522601890729" duration="4258000" />
+      <workItem from="1522606622558" duration="641000" />
+      <workItem from="1522607375278" duration="58000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36656000" />
+    <option name="totallyTimeSpent" value="37355000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1216" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" x="173" y="205" width="226" height="728" id="Project" order="3" visible="true" weight="0.23814541" />
+      <window_info active="true" content_ui="combo" x="173" y="205" width="226" height="728" id="Project" order="3" visible="true" weight="0.23814541" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info id="npm" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.44827586" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.44827586" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -560,17 +566,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/narrative-01-help.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/narrative-01-help.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
