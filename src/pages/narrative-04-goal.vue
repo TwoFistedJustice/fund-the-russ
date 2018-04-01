@@ -18,7 +18,7 @@
         Reactor's technical admissions interview.
       </p>
 
-      <!--<f7-link back>back</f7-link>-->
+      <f7-link back>(go back)</f7-link>
     </f7-block>
     <f7-block>
       <banner-ad-bottom></banner-ad-bottom>

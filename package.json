@@ -1,5 +1,5 @@
 {
-  "name": "fund-the-russ ",
+  "name": "fund-the-russ-dev",
   "version": "2.0.0",
   "description": "hack reactor tuition and expenses fund raising site",
   "scripts": {
@@ -24,7 +24,7 @@
     "app",
     "f7"
   ],
-  "author": "Russ Bain and Vladimir Kharlampidi",
+  "author": "Russ Bain and Vladimir Kharlampidi (F7 boilerplate)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/framework7io/framework7-template-vue-webpack/issues"

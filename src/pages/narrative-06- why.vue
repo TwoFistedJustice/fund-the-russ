@@ -19,7 +19,7 @@
         underlying
         my resume will significantly increase my chances of getting noticed by potential employers.
       </p>
-
+      <f7-link back>(go back)</f7-link>
 
     </f7-block>
     <f7-block>

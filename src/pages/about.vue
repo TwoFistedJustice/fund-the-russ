@@ -15,7 +15,7 @@
         to earn advertising fees by advertising and linking to Amazon.com.
       </p>
 
-
+      <f7-link back>(go back)</f7-link>
     </f7-block>
     <f7-block>
       <banner-ad-bottom></banner-ad-bottom>

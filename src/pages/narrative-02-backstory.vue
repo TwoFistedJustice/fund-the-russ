@@ -5,24 +5,23 @@
     <banner-ad-top></banner-ad-top>
     <f7-block strong>
       <p>
-        I had a decent job in accounting. My goal was to study independently
-        and to save enough money in 2018 to attend Hack Reactor coding bootcamp in
-        2019. Then I planned to switch career paths to software engineer.
-
-
+        Until March I had a good job in accounting. In my spare time I studied Javascript coding.
+        I was saving money with the intention of going to Hack Reactor coding bootcamp in 2019
+        and paying the entire cost out of my savings. Then I would stop doing accounting and switch
+        careers to software engineer.
       </p>
 
-      <p>On March 13th, 2018 my decent job got outsourced to India. </p>
+      <p>Then my job got sent to India. </p>
       <p>My options were:</p>
       <ul>
-        <li>Give up.</li>
-        <li>Find a new job and postpone my goal another year.</li>
+        <li>Give up. (not really an option)</li>
+        <li>Find a new, not as good. accounting job and postpone my goal another year.</li>
         <li>Leap NOW for my goal !</li>
       </ul>
       <p>
        So I leaped.
       </p>
-      <!--<f7-link back>back</f7-link>-->
+      <f7-link back>(go back)</f7-link>
     </f7-block>
     <f7-block>
       <banner-ad-bottom></banner-ad-bottom>
