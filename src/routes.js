@@ -14,6 +14,8 @@ import Narrative04Goal from './pages/narrative-04-goal.vue';
 import Narrative05Confidence from './pages/narrative-05-confidence.vue';
 import Narrative06Why from './pages/narrative-06- why.vue';
 
+import AmazonMain from './pages/AmazonLinks/Amazon-01-General';
+
 export default [
   {
     path: '/',
@@ -53,6 +55,11 @@ export default [
   {
     path: '/why-hack-reactor/',
     component: Narrative06Why,
+  },
+
+  {
+    path: '/product-recommendations/',
+    component: AmazonMain,
   },
 
   //This has to go at the bottom

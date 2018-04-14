@@ -15,13 +15,14 @@
       <!--<banner-ad-top></banner-ad-top>-->
     <f7-list>
 
-      <f7-list-item link="/help/" title="How you can help"></f7-list-item>
-      <f7-list-item link="/backstory/" title="The Backstory"></f7-list-item>
-      <f7-list-item link="/my-needs/" title="What I Need"></f7-list-item>
+      <f7-list-item link="/help/" title="Here's what's going on"></f7-list-item>
+      <!--<f7-list-item link="/backstory/" title="The Backstory"></f7-list-item>-->
+      <!--<f7-list-item link="/my-needs/" title="What I Need"></f7-list-item>-->
       <f7-list-item link="/my-goal/" title="My Goal"></f7-list-item>
       <f7-list-item link="/omg-wth/" title="Am I Ready?"></f7-list-item>
       <f7-list-item link="/why-hack-reactor/" title="Why Hack Reactor?"></f7-list-item>
       <f7-list-item link="/about/" title="About"></f7-list-item>
+      <f7-list-item link="/product-recommendations/" title="Zon"></f7-list-item>
 
     </f7-list>
       <!--<f7-block-title>Adorable Kitties</f7-block-title>-->

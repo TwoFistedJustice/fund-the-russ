@@ -1,0 +1,30 @@
+things to use for share house or russ.fund
+
+chips - for contacts
+
+FAB / FAB Morph, space saving navigation "floating action button"
+
+
+Icons - add to russ.fund menu
+
+Searchbar - for amazon links - this is REALLY sophisticated. Will take too much time to get going.
+
+Tabs for Amazon links
+
+
+How to server up Amazon links
+
+use Cards - since I know how to do that.
+
+I can store them in an array of objects and serve them up via a loop
+
+{
+category: 'KLR650',
+name: 'K&L Supply Air Cut Off Valve Set 18-2799 ',
+asin: 'B001KOH2LU',
+url: 'https://amzn.to/2Hc1xOG'
+}
+
+
+//this shows how to serve the iframe with v-html - wrap it in a <p>
+https://forum.vuejs.org/t/convert-json-string-to-html/30305/3

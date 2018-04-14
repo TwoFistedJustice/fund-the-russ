@@ -11,12 +11,18 @@
 
       <p>
         I am throwing myself into full study mode. I have already completed
-        the first part of the Hack Reactor preparation material
-        and have begun their structured study program. I will be
-        studying about eight hours a day, six days a week  from
-        March 19th through April 14th to prepare for Hack
+        the Hack Reactor structured study program.
+        This took me a solid three weeks of not doing anything else.
+        And that's just to prepare for Hack
         Reactor's technical admissions interview.
       </p>
+      <p>
+        After Hack Reactor I plan to work for a year in regular software development job
+        in order to gain experience and knowledge, then focus on making software that supports
+        the building of community.
+      </p>
+
+
 
       <f7-link back>(go back)</f7-link>
     </f7-block>
