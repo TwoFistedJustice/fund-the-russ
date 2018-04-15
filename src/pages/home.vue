@@ -22,23 +22,11 @@
       <f7-list-item link="/omg-wth/" title="Am I Ready?"></f7-list-item>
       <f7-list-item link="/why-hack-reactor/" title="Why Hack Reactor?"></f7-list-item>
       <f7-list-item link="/about/" title="About"></f7-list-item>
-      <f7-list-item link="/product-recommendations/" title="Zon"></f7-list-item>
+      <f7-list-item link="/general-recommendations/" title="Product Recommendations"></f7-list-item>
+      <f7-list-item link="/motorcyle-recommendations/" title="Motorcycle Stuff"></f7-list-item>
 
     </f7-list>
-      <!--<f7-block-title>Adorable Kitties</f7-block-title>-->
-    <!--<f7-block>-->
-      <!--<f7-row>-->
-        <!--<f7-col width="50">-->
-          <!--<p>Everyone loves</p>-->
-          <!--<f7-button fill raised popup-open="#popup">Adorable Kitties</f7-button>-->
-        <!--</f7-col>-->
-        <!--<f7-col width="50">-->
-          <!--<banner-ad-amazon></banner-ad-amazon>-->
-        <!--</f7-col>-->
 
-      <!--</f7-row>-->
-    <!--</f7-block>-->
-    <!--<f7-block>-->
       <banner-ad-bottom></banner-ad-bottom>
     </f7-block>
 

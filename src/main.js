@@ -31,6 +31,7 @@ Vue.use(Framework7Vue, Framework7)
 // Init App
 new Vue({
   el: '#app',
+  store,
   template: '<app/>',
   // Init Framework7 by passing parameters here
   framework7: {

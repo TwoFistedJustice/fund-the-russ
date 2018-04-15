@@ -14,7 +14,8 @@ import Narrative04Goal from './pages/narrative-04-goal.vue';
 import Narrative05Confidence from './pages/narrative-05-confidence.vue';
 import Narrative06Why from './pages/narrative-06- why.vue';
 
-import AmazonMain from './pages/AmazonLinks/Amazon-01-General';
+import AmazonGeneral from './pages/AmazonLinks/Amazon-01-General.vue';
+import AmazonMoto from './pages/AmazonLinks/Amazon-02-MotorcyleTools.vue';
 
 export default [
   {
@@ -58,9 +59,16 @@ export default [
   },
 
   {
-    path: '/product-recommendations/',
-    component: AmazonMain,
+    path: '/general-recommendations/',
+    component: AmazonGeneral,
   },
+
+  {
+    path: '/motorcyle-recommendations/',
+    component: AmazonMoto,
+  },
+
+
 
   //This has to go at the bottom
   {

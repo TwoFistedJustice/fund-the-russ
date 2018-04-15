@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import Vuex from 'vuex';
 
-// import auth from './modules/authModule.js';
+import affiliate from './modules/affiliate.js';
 
 
 Vue.use(Vuex);
@@ -16,7 +16,7 @@ export default new Vuex.Store({
   mutations:{},
   actions:{},
   modules: {
-    //
+    affiliate
   }
 
 }); // END STORE

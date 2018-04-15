@@ -18,8 +18,8 @@
       </p>
       <p>
         After Hack Reactor I plan to work for a year in regular software development job
-        in order to gain experience and knowledge, then focus on making software that supports
-        the building of community.
+        in order to gain experience and knowledge, then focus on making software that fosters
+        community.
       </p>
 
 

@@ -1,14 +1,13 @@
 <template>
   <f7-page>
-    <f7-navbar title="Motorycle Tools" back-link="Back"></f7-navbar>
-    <f7-swiper navigation
-               :params="{init: true, scrollbar: true, spaceBetween: 10, loop: true }"
-               :pagination="true"  >
+    <!--<f7-navbar title="The Backstory" back-link="Back"></f7-navbar>-->
+    <!--<f7-block strong>-->
+    <f7-swiper navigation :params="{init: true, scrollbar: true, spaceBetween: 20,  observer: true, observeParents: true }">
       <f7-swiper-slide><amazon-item></amazon-item></f7-swiper-slide>
       <f7-swiper-slide><amazon-item></amazon-item></f7-swiper-slide>
       <f7-swiper-slide><amazon-item></amazon-item></f7-swiper-slide>
     </f7-swiper>
-
+    <!--</f7-block>-->
   </f7-page>
 </template>
 
