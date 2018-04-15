@@ -4,25 +4,37 @@
     <f7-swiper navigation
                :params="{init: true, scrollbar: true, spaceBetween: 10, loop: true }"
                :pagination="true"  >
-      <f7-swiper-slide><amazon-item></amazon-item></f7-swiper-slide>
-      <f7-swiper-slide><amazon-item></amazon-item></f7-swiper-slide>
-      <f7-swiper-slide><amazon-item></amazon-item></f7-swiper-slide>
+
+      <f7-swiper-slide v-for="link in getLinks"
+                       :key="link.asin"
+                       :link="link">
+
+        <amazon-item :link="link"></amazon-item>
+      </f7-swiper-slide>
+
     </f7-swiper>
+    <banner-ad-bottom></banner-ad-bottom>
 
   </f7-page>
 </template>
 
 <script>
-
+  import {mapGetters} from 'vuex';
   // import BannerAdTop from './BannerAdTop.vue';
-  // import BannerAdBottom from './BannerAdBottom.vue';
+  import BannerAdBottom from './../BannerAdBottom.vue';
   // import BannerAdAmazon from './BannerAdLarge.vue';
   import AmazonItem from './Amazon-Item.vue';
 
   export default {
     components: {
-      AmazonItem
-    }
+      AmazonItem,
+      BannerAdBottom
+    },
+    computed: {
+      ...mapGetters({
+        getLinks: 'affiliate/GetMotoLinks'
+      })
+    },
 
 
   }

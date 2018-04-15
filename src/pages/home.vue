@@ -23,7 +23,7 @@
       <f7-list-item link="/why-hack-reactor/" title="Why Hack Reactor?"></f7-list-item>
       <f7-list-item link="/about/" title="About"></f7-list-item>
       <f7-list-item link="/general-recommendations/" title="Product Recommendations"></f7-list-item>
-      <f7-list-item link="/motorcyle-recommendations/" title="Motorcycle Stuff"></f7-list-item>
+      <f7-list-item link="/motorcyle-recommendations/" title="Motorcycle Tool Recommendations"></f7-list-item>
 
     </f7-list>
 

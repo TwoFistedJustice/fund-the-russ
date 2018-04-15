@@ -6,7 +6,15 @@ const state = {
   motoLinks: [],
   generalLinks: []
 };
-const getters = {};
+const getters = {
+  GetMotoLinks (state){
+    return state.motoLinks;
+  },
+
+  GetGeneralLinks (state) {
+    return state.generalLinks;
+  }
+};
 
 const mutations = {
   SET_MOTO_LINKS (state, {motoLinks}){
