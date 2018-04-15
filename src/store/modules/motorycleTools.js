@@ -3,6 +3,7 @@ export default [
     item: 'Thread Maintenance Kit',
     asin: 'B000XJ48V0',
     frame: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=hooliatornet-20&marketplace=amazon&region=US&placement=B000XJ48V0&asins=B000XJ48V0&linkId=35c3572f4d55a6c7d23d0a148ffcd7ee&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=e8ebf0"></iframe>',
+    link: 'https://amzn.to/2GBQqSl',
     blurb: 'After wrecking several threads with with some generic kit, ' +
     'I bought this kit from Lang Tools and have' +
     ' been using it ever since! This kit has spared me the tap and die several times.'
@@ -77,7 +78,7 @@ export default [
     asin: 'B000RN6WR0',
     frame: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=hooliatornet-20&marketplace=amazon&region=US&placement=B000RN6WR0&asins=B000RN6WR0&linkId=5232b38ca35e388802f30fb45e37cca5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=e8ebf0"></iframe>',
     link: 'https://amzn.to/2EnkVoL',
-    blurb: 'KLR650 necessity. Super high quality, made in USA. Won\'t round your fasteners. Used for you rear wheel.'
+    blurb: 'KLR650 necessity. Super high quality, made in USA. Won\'t round your fasteners. Used for your rear wheel.'
   },
   {
     item: 'iGaging IP54 Electronic Digital Caliper',
@@ -156,4 +157,38 @@ export default [
     link: 'https://amzn.to/2Enicf1',
     blurb: 'These are good for cleaning out your carburettor ducts. They won\t fall apart and leave fluff everywhere.'
   },
+  {
+    item: 'Irwin Standard Tread Pitch Gauge',
+    asin: 'B004GZG3H',
+    frame: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hooliatornet-20&marketplace=amazon&region=US&placement=B004GZG3HY&asins=B004GZG3HY&linkId=ebd0aeebc02adfb771abdb87b91b147c&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=e8ebf0"></iframe>',
+    link: 'https://amzn.to/2JKk45G',
+    blurb: 'Itty bitty and will save your @$$ by keeping you from screwing the wrong hole.'
+  },
+  // {
+  //   item: '',
+  //   asin: '',
+  //   frame: '',
+  //   link: '',
+  //   blurb: ''
+  // },
+  // {
+  //   item: '',
+  //   asin: '',
+  //   frame: '',
+  //   link: '',
+  //   blurb: ''
+  // },
+  // {
+  //   item: '',
+  //   asin: '',
+  //   frame: '',
+  //   link: '',
+  //   blurb: ''
+  // }
   ];
+
+
+
+
+
+

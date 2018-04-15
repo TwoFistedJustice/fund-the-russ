@@ -5,8 +5,16 @@
 
         <f7-row>
           <f7-col class="col-60">
+
             <p><strong>{{link.item}}</strong></p>
             <p>{{link.blurb}}</p>
+            <!--<a :href="link.link" target="blank">Link to Amazon</a>-->
+            <div class="text-center">
+              <f7-link :href="link.link"
+
+                       target="blank" external>Link to Amazon
+              </f7-link>
+            </div>
           </f7-col>
           <f7-col class="col-40">
             <p v-html="link.frame"></p>
@@ -49,5 +57,8 @@
   .center {
     margin: auto;
   }
+.text-center {
+  text-align: center;
+}
 
 </style>
