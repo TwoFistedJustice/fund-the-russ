@@ -6,7 +6,7 @@ export default [
     link: 'https://amzn.to/2GBQqSl',
     blurb: 'After wrecking several threads with with some generic kit, ' +
     'I bought this kit from Lang Tools and have' +
-    ' been using it ever since! This kit has spared me the tap and die several times.'
+    ' been using it ever since! This kit has spared me the tap and die several times. Made in USA.'
   },
 
   {
@@ -64,7 +64,7 @@ export default [
     asin: 'B00061SN5W',
     frame: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=hooliatornet-20&marketplace=amazon&region=US&placement=B00061SN5W&asins=B00061SN5W&linkId=939e8db16784d74321610d2de99941aa&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=e8ebf0"></iframe>',
     link: 'https://amzn.to/2HbYtlC',
-    blurb: 'An itty bitty high quality ratchet will help you to not strip out small fasteners. It also fits in tight spaces.'
+    blurb: 'An itty bitty high quality ratchet will help you to not strip out small fasteners. It also fits in tight spaces. Made in USA.'
   },
   {
     item: 'Extech EX330 Autoranging Multimeter',
@@ -78,7 +78,7 @@ export default [
     asin: 'B000RN6WR0',
     frame: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=hooliatornet-20&marketplace=amazon&region=US&placement=B000RN6WR0&asins=B000RN6WR0&linkId=5232b38ca35e388802f30fb45e37cca5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=e8ebf0"></iframe>',
     link: 'https://amzn.to/2EnkVoL',
-    blurb: 'KLR650 necessity. Super high quality, made in USA. Won\'t round your fasteners. Used for your rear wheel.'
+    blurb: 'KLR650 necessity. Super high quality, made in USA. Won\'t round your fasteners. Used for your rear wheel. Made in USA.'
   },
   {
     item: 'iGaging IP54 Electronic Digital Caliper',
@@ -113,7 +113,7 @@ export default [
     asin: 'B00A50NB2Y',
     frame: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=hooliatornet-20&marketplace=amazon&region=US&placement=B00A50NB2Y&asins=B00A50NB2Y&linkId=6049a2cddf5cf6756e0c8a9d59036a54&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=e8ebf0"></iframe>',
     link: 'https://amzn.to/2uOQOr1',
-    blurb: 'This is handy for getting inside awkward places, like your fairings.'
+    blurb: 'This is handy for getting inside awkward places, like your fairings, or your m.. :-O'
   },
   {
     item: 'Twin Power Keihin CV Carb Vacuum Piston Diaphram ',
@@ -164,6 +164,34 @@ export default [
     link: 'https://amzn.to/2JKk45G',
     blurb: 'Itty bitty and will save your @$$ by keeping you from screwing the wrong hole.'
   },
+  {
+    item: 'EBC Clutch Holding Tool ',
+    asin: 'B0065WU4TE ',
+    frame: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hooliatornet-20&marketplace=amazon&region=US&placement=B0065WU4TE&asins=B0065WU4TE&linkId=5d31c2132dc5153d028a227e63d49cbf&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=e8ebf0"></iframe>',
+    link: 'https://amzn.to/2HIbDan',
+    blurb: 'KLR650 specific version (look up for your bike). This makes clutch work soooo much easier. Real time and knuckle saver.'
+  },
+  {
+    item: 'Vessel JIS Screwdriver',
+    asin: 'B000TG8OTY',
+    frame: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hooliatornet-20&marketplace=amazon&region=US&placement=B000TG8OTY&asins=B000TG8OTY&linkId=fc39ae61d0643549036a19f02d4dd93e&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=e8ebf0"></iframe>',
+    link: 'https://amzn.to/2HJMxb8',
+    blurb: 'Got Japanese bike? You need a Japanese screwdriver. No joke! The screws are NOT phillips head. They are JIS! Look it up! Made in Japan.'
+  },
+  {
+    item: 'Pratt & Read Hook & Picks',
+    asin: 'B001BZZ33W',
+    frame: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hooliatornet-20&marketplace=amazon&region=US&placement=B001BZZ33W&asins=B001BZZ33W&linkId=68fefb294b9f5c33f7157bf7072a94a8&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=e8ebf0"></iframe>',
+    link: 'https://amzn.to/2Ha2o5S'
+    blurb: 'These are seriously nice. Made in USA. Tough as nails. I had to file mine to make them less sharp. And it was not easy!'
+  },
+  {
+    item: 'Soft-Face Hammer',
+    asin: 'B0002IGHDE',
+    frame: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hooliatornet-20&marketplace=amazon&region=US&placement=B0002IGHDE&asins=B0002IGHDE&linkId=ca445c32e678f0dc0724c0a27cf6a3fd&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=e8ebf0"></iframe>',
+    link: 'https://amzn.to/2Hbbqvl',
+    blurb: 'These really come in handy when you need to knock something without wrecking it. Made in USA.'
+  },
   // {
   //   item: '',
   //   asin: '',
@@ -184,7 +212,63 @@ export default [
   //   frame: '',
   //   link: '',
   //   blurb: ''
-  // }
+  // },
+  // {
+  //   item: '',
+  //   asin: '',
+  //   frame: '',
+  //   link: '',
+  //   blurb: ''
+  // },
+  // {
+  //   item: '',
+  //   asin: '',
+  //   frame: '',
+  //   link: '',
+  //   blurb: ''
+  // },
+  // {
+  //   item: '',
+  //   asin: '',
+  //   frame: '',
+  //   link: '',
+  //   blurb: ''
+  // },
+  // {
+  //   item: '',
+  //   asin: '',
+  //   frame: '',
+  //   link: '',
+  //   blurb: ''
+  // },
+  // {
+  //   item: '',
+  //   asin: '',
+  //   frame: '',
+  //   link: '',
+  //   blurb: ''
+  // },
+  // {
+  //   item: '',
+  //   asin: '',
+  //   frame: '',
+  //   link: '',
+  //   blurb: ''
+  // },
+  // {
+  //   item: '',
+  //   asin: '',
+  //   frame: '',
+  //   link: '',
+  //   blurb: ''
+  // },
+  // {
+  //   item: '',
+  //   asin: '',
+  //   frame: '',
+  //   link: '',
+  //   blurb: ''
+  // },
   ];
 
 
