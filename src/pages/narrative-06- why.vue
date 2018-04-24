@@ -7,10 +7,9 @@
 
     <f7-block strong>
 
-      <p><a href="https://www.hackreactor.com/" target="blank" class="link external">Hack Reactor</a> is one of the best
-        quality and well known coding bootcamps
-        in the world.</p>
-      <p>It is a 12 week program running 12 hours per day, 6 days per week. Intense!</p>
+      <p><a href="https://www.hackreactor.com/?nav=1" target="blank" class="link external">Hack Reactor</a> was one of the first
+       and remains one of the <a href="https://tech.co/top-33-coding-bootcamps-2015-02" target="blank" class="link external">top coding bootcamps</a>  in the world.</p>
+      <p>It is a 13 week program running 12 hours per day, 6 days per week. Intense!</p>
 
       <p>I have friends who have gone through the program and now
         work as senior software engineers.</p>

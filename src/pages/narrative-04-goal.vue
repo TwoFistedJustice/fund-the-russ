@@ -4,10 +4,18 @@
     <banner-ad-top></banner-ad-top>
     <!--<f7-block-title>My Goal</f7-block-title>-->
     <f7-block strong>
-      <p>
-        My goal is to attend the Hack Reactor software engineering immersive bootcamp
-        from June 11, 2018 to September 3rd, 2018.
+
+      <p><b>4/23/18</b><br>
+        I have been accepted into the Hack Reactor software engineering immersive bootcamp
+        from June 11, 2018 to September 3rd, 2018. The non-refundable deposit could have bought
+        me another motorcycle.
       </p>
+
+      <p><b>3/20/18</b><br>
+        My goal is to attend the Hack Reactor software engineering immersive bootcamp
+          from June 11, 2018 to September 3rd, 2018.
+      </p>
+
 
       <p>
         I am throwing myself into full study mode. I have already completed
@@ -18,8 +26,8 @@
       </p>
       <p>
         After Hack Reactor I plan to work for a year in regular software development job
-        in order to gain experience and knowledge, then focus on making software that fosters
-        community.
+        in order to gain experience and knowledge, then focus on making software that focuses
+        on fostering community and making motorcycling more enjoyable.
       </p>
 
 

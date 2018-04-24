@@ -155,7 +155,7 @@ export default [
     asin: 'B0752Z2T5P',
     frame: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=hooliatornet-20&marketplace=amazon&region=US&placement=B0752Z2T5P&asins=B0752Z2T5P&linkId=c419a109c95306c3f5502dc1846374e4&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=e8ebf0"></iframe>',
     link: 'https://amzn.to/2Enicf1',
-    blurb: 'These are good for cleaning out your carburettor ducts. They won\t fall apart and leave fluff everywhere.'
+    blurb: 'These are good for cleaning out your carburettor ducts. They won\'t fall apart and leave fluff everywhere.'
   },
   {
     item: 'Irwin Standard Tread Pitch Gauge',
@@ -176,13 +176,13 @@ export default [
     asin: 'B000TG8OTY',
     frame: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hooliatornet-20&marketplace=amazon&region=US&placement=B000TG8OTY&asins=B000TG8OTY&linkId=fc39ae61d0643549036a19f02d4dd93e&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=e8ebf0"></iframe>',
     link: 'https://amzn.to/2HJMxb8',
-    blurb: 'Got Japanese bike? You need a Japanese screwdriver. No joke! The screws are NOT phillips head. They are JIS! Look it up! Made in Japan.'
+    blurb: 'Got a Japanese bike? You need a Japanese screwdriver. No joke! The screws are NOT phillips head. They are JIS! Look it up! Made in Japan.'
   },
   {
     item: 'Pratt & Read Hook & Picks',
     asin: 'B001BZZ33W',
     frame: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hooliatornet-20&marketplace=amazon&region=US&placement=B001BZZ33W&asins=B001BZZ33W&linkId=68fefb294b9f5c33f7157bf7072a94a8&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=e8ebf0"></iframe>',
-    link: 'https://amzn.to/2Ha2o5S'
+    link: 'https://amzn.to/2Ha2o5S',
     blurb: 'These are seriously nice. Made in USA. Tough as nails. I had to file mine to make them less sharp. And it was not easy!'
   },
   {
